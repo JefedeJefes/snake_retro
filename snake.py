@@ -61,8 +61,4 @@ class Snake:
         if self.head.heading()!= LEFT:
             self.head.setheading(RIGHT)
 
-    def nothing(self):
-        
-
-
-#will add new feature.........................
+   
